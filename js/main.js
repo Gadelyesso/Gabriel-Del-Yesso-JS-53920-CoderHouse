@@ -30,14 +30,14 @@ if (ingresar) {
                 alert("El Alumno/a: " + nombreAlumno + " " + apellidoAlumno + " Tiene un promedio de: " + promedio);
                 break;
             } else {
-                alert("Error, completar todos los campos. Vuelva a intentarlo.")
+                alert("Error, completar todos los campos. Vuelva a intentarlo.");
             }
         }
     }
 } else {
-    alert("PIN incorrecto, terminal bloqueada.")
+    alert("PIN incorrecto, terminal bloqueada.");
 }
-alert("Gracias por utilizar el sistema de promedio de notas...")
+alert("Gracias por utilizar el sistema de promedio de notas...");
 
 
 
